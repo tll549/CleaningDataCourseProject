@@ -6,6 +6,7 @@
 
 The following list contain the variables appears in finalTidy.txt file. Details of the third variable to the last can be found at `features_info.txt`
 
+```
  1. subjectID: The ID of subjects. Each subject has a unique ID. The range of IDs is between 1 to 30.                          
  2. activity: The subject's activity type when the data was captured. Including (from `activity_labels.txt`):
 	1. WALKING
@@ -13,7 +14,7 @@ The following list contain the variables appears in finalTidy.txt file. Details 
 	3. WALKING_DOWNSTAIRS
 	4. SITTING
 	5. STANDING
-	6. LAYING                 
+	6. LAYING      
  3. tBodyAcc-mean()-X                   
  4. tBodyAcc-mean()-Y                   
  5. tBodyAcc-mean()-Z                   
@@ -100,6 +101,7 @@ The following list contain the variables appears in finalTidy.txt file. Details 
 86. angle(X,gravityMean)                
 87. angle(Y,gravityMean)                
 88. angle(Z,gravityMean)
+```
 
 ## Tidy Log
 
